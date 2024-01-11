@@ -1,5 +1,3 @@
-Olá, este é o Bing. Eu posso tentar escrever um arquivo readme.md em markdown para você. Aqui está um exemplo de como ele poderia ficar:
-
 # Curso de Alemão do DUOLINGO
 
 Este é um curso online e gratuito de alemão oferecido pelo DUOLINGO, uma plataforma de aprendizagem de idiomas baseada em gamificação. O curso é destinado a iniciantes e intermediários que querem aprender ou melhorar suas habilidades no idioma alemão.
