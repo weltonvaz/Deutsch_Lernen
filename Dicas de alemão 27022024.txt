@@ -1,0 +1,4 @@
+Ich trinke niemals Tee mit Zitrone. --> Ich trinke niemand Tee mit Zitrone. | Eu jamais bebo chá com limão.
+Ein Vegetarier isst nie Fleisch. --> Ein Vegetarier nie isst Fleisch. | Um vegetariano nunca come carne.
+
+glsns.gitbook.io/java-basico/programacacao-orientada-a-objetos/conceito-de-poo

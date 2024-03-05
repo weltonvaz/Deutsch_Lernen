@@ -1,0 +1,6 @@
+5:00 Uhr – 11:00 Uhr: Guten Morgen .
+11:00 Uhr – 18:00 Uhr: Guten Tag.
+18:00 – 22:00 Uhr: Guten Abend.
+
+Beispiel: 
+Es ist 09:00 Uhr. – Guten Morgen.
